@@ -53,7 +53,7 @@ const rooms = [
     zone: "Espaço Sky",
     box: [488, 436, 97, 48],
     description: "A sala Inovação fica no Espaço Sky.",
-    reference: "Entre pelo Espaço Sky; a Inovação é a sala azul na lateral direita.",
+    reference: "Entre pelo Espaço Sky; A inovação é a sala azul perto da recepção.",
   },
   {
     id: "inspiracao",
