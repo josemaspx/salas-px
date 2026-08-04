@@ -61,7 +61,7 @@ const rooms = [
     zone: "Recepção",
     box: [488, 484, 97, 49],
     description: "A sala Inspiração fica na Recepção.",
-    reference: "Na Recepção, é a sala laranja na parte inferior.",
+    reference: "Sala laranja que fica na recepção.",
   },
   {
     id: "energia",
