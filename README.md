@@ -35,5 +35,6 @@ https://josemaspx.github.io/salas-px/
 ```
 
 Cada push na branch `main` executa o workflow `.github/workflows/deploy-pages.yml` e atualiza automaticamente o GitHub Pages.
+O workflow adiciona o SHA do commit às URLs do CSS e JavaScript para impedir que o navegador reutilize uma versão antiga após o deploy.
 
 > O GitHub Pages é público. Qualquer pessoa que conheça o endereço pode abrir o mapa.
